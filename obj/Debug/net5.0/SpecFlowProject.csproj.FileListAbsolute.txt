@@ -1,0 +1,5 @@
+C:\Users\apras\source\repos\SpecFlowProject\SpecFlowProject\obj\Debug\net5.0\SpecFlowProject.csproj.AssemblyReference.cache
+C:\Users\apras\source\repos\SpecFlowProject\SpecFlowProject\obj\Debug\net5.0\SpecFlowProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apras\source\repos\SpecFlowProject\SpecFlowProject\obj\Debug\net5.0\SpecFlowProject.AssemblyInfoInputs.cache
+C:\Users\apras\source\repos\SpecFlowProject\SpecFlowProject\obj\Debug\net5.0\SpecFlowProject.AssemblyInfo.cs
+C:\Users\apras\source\repos\SpecFlowProject\SpecFlowProject\obj\Debug\net5.0\SpecFlowProject.csproj.CoreCompileInputs.cache
